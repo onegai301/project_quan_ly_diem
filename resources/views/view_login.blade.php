@@ -83,12 +83,6 @@
                                         <label>Password</label>
                                         <input type="password" name="mat_khau" placeholder="Password" class="form-control">
                                     </div>
-                                    <div class="form-group">
-                                        <label class="checkbox">
-                                            <input type="checkbox" data-toggle="checkbox" value="">
-                                            Subscribe to newsletter
-                                        </label>
-                                    </div>
                                 </div>
                                 <div class="footer text-center">
                                     <button type="submit" class="btn btn-fill btn-warning btn-wd">Login</button>
